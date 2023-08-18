@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\BilSynd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\BilSynd.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\BilSynd.AssemblyInfo.cs
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\BilSynd.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\bin\Debug\net6.0\BilSynd.exe
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\bin\Debug\net6.0\BilSynd.deps.json
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\bin\Debug\net6.0\BilSynd.runtimeconfig.json
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\bin\Debug\net6.0\BilSynd.dll
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\bin\Debug\net6.0\BilSynd.pdb
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\BilSynd.dll
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\refint\BilSynd.dll
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\BilSynd.pdb
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\BilSynd.genruntimeconfig.cache
+C:\Users\Tatiana\Tec-H1\Grundlægendeprogrammering\BilSynd-master\BilSynd\obj\Debug\net6.0\ref\BilSynd.dll
